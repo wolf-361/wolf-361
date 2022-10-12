@@ -37,10 +37,10 @@ jobs:
       
       # Push the change
       - name: Push changes
-        uses: ad-m/github-push-actions@master
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ github.ref }}
+          branch: master
           force: true
           
       - uses: crazy-max/ghaction-github-pages@v2.1.3
