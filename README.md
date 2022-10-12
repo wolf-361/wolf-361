@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![snake gif](https://github.com/wolf-361/wolf-361/blob/output/github-contribtion-grid-snake.gif)
+
 <!--
 **wolf-361/wolf-361** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
