@@ -38,6 +38,6 @@ Des projets en cours serais un site web (wordpress) et un application (front-end
 * 📜 Infrastructure (Configuration of DNS, Caddy, integrating Cloudflare)
 * 📚 English/Français
 
-[![@wolf361's Holopin board](https://holopin.me/wolf361)](https://holopin.io/@wolf361)
+[![An image of @wolf361's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wolf361)](https://holopin.io/@wolf361)
 
 
