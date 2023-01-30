@@ -14,9 +14,9 @@ I am presently working on a website (Wordpress) and an app for my student associ
 
 ## Français :
 
-Je m'appelle Luc, un étudiant en première année au Baccalauréat en informatique. Je recherche encore exactement en quoi je désire me spécialisé. J'ai pour la plupart fait du front-end, un peu de CI / CD et de l'infrastructure pour avoir un server maison.
+Je m'appelle Luc, un étudiant en première année au Baccalauréat en informatique. Je recherche encore exactement en quoi je désire me spécialiser. J'ai pour la plupart fait du front-end, un peu de CI / CD et de l'infrastructure pour avoir un serveur maison.
 
-Je me sens très passioner de l'informatique, je cherche présentement à en apprendre le plus possible pour mieux m'orienter pour le futur. Je participe donc à des hackathons et j'essaie de faire des projets personnel.
+Je me sens très passionné de l'informatique, je cherche présentement à en apprendre le plus possible pour mieux m'orienter pour le futur. Je participe donc à des hackathons et j'essaie de faire des projets personnels.
 
 Un exemple de cela serais 🎓 [Studently](https://github.com/wolf-361/Studently---CodeJam12), une application javascript faite en 36h durant un hackathon. L'objectif de celle-ci est de supporter les étudiants autant que possible.
 
