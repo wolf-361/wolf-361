@@ -8,7 +8,7 @@ I'm Luc a first year computer student who is still looking for the exact branch 
 
 I am very passionnate about IT and I am still trying to discover everything I can. I am doing as much hackathons and personnal projects I can fit into my school schedule.
 
-An exemple of that would be 🎓 [Studently](https://github.com/wolf-361/Studently---CodeJam12), a javascript app made in 36h during a hackathon focused on students support.
+An exemple of that would be 🎓 [Studently](https://github.com/wolf-361/Studently-CodeJam12), a javascript app made in 36h during a hackathon focused on students support.
 
 I am presently working on a website (Wordpress) and an app for my student association. I'm in charge of the front-end for the app (Flutter).
 
@@ -18,7 +18,7 @@ Je m'appelle Luc, un étudiant en première année au Baccalauréat en informati
 
 Je me sens très passionné de l'informatique, je cherche présentement à en apprendre le plus possible pour mieux m'orienter pour le futur. Je participe donc à des hackathons et j'essaie de faire des projets personnels.
 
-Un exemple de cela serais 🎓 [Studently](https://github.com/wolf-361/Studently---CodeJam12), une application javascript faite en 36h durant un hackathon. L'objectif de celle-ci est de supporter les étudiants autant que possible.
+Un exemple de cela serais 🎓 [Studently](https://github.com/wolf-361/Studently-CodeJam12), une application javascript faite en 36h durant un hackathon. L'objectif de celle-ci est de supporter les étudiants autant que possible.
 
 Des projets en cours serais un site web (wordpress) et un application (front-end, Flutter) pour notre association étudiante.
 
