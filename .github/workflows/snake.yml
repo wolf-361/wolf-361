@@ -28,7 +28,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: wolf-361
-          # Generate the files on a branch called Output To keep the maine branch from cluttering up
+          # Generate the files on a branch called Output To keep the main branch from cluttering up
           gif_out_path: dist/github-contribtion-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
       
