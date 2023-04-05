@@ -2,6 +2,9 @@
 
 ![snake gif](https://github.com/wolf-361/wolf-361/blob/output/github-contribution-grid-snake.svg)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## English : 
 
 I'm Luc a first year computer student who is still looking for the exact branch I prefer. I have mostly done front-end, a tiny bit of CI / CD and some infrastructure (self-hosting a server).
