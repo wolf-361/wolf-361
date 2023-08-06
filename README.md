@@ -3,7 +3,7 @@
 ![snake gif](https://github.com/wolf-361/wolf-361/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-254%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2028%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -85,7 +85,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wolf-361/wolf-361/main/assets/bar_graph.png)
 
 
- Last Updated on 06/08/2023 00:49:11 UTC
+ Last Updated on 06/08/2023 06:14:08 UTC
 <!--END_SECTION:waka-->
 
 ## English : 
