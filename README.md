@@ -3,13 +3,13 @@
 ![snake gif](https://github.com/wolf-361/wolf-361/blob/output/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-446%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 120.8 kB Used in GitHub's Storage 
+> 📦 120.9 kB Used in GitHub's Storage 
  > 
 > 🏆 923 Contributions in the Year 2023
  > 
@@ -74,8 +74,8 @@ Linux                    7 hrs 17 mins       ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-Java                     6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
-C#                       5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+TypeScript               9 repos             ██████░░░░░░░░░░░░░░░░░░░   25.71 % 
+C#                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
 C                        3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 JavaScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
 HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
@@ -88,7 +88,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/wolf-361/wolf-361/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2023 00:47:14 UTC
+ Last Updated on 09/11/2023 06:15:50 UTC
 <!--END_SECTION:waka-->
 
 ## English : 
