@@ -1,6 +1,63 @@
-# Welcome to my profile / Bienvenue sur mon profil !
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Bienvenue;Welcome;Je+suis+un+%C3%A9tudiant+en+informatique;I+am+a+computer+science+student;I+am+an+opensorcerer+%F0%9F%A7%99" alt="Typing SVG" />
+    </a>
+</h1>
+
+
+<details open>
+    <summary>
+        <h2>🇫🇷 Français</h2>
+    </summary>
+
+    
+Je m'appelle Luc, un étudiant en première année au Baccalauréat en informatique. Je recherche encore exactement en quoi je désire me spécialiser. J'ai pour la plupart fait du front-end, un peu de CI / CD et de l'infrastructure pour avoir un serveur maison.
+
+Je me sens très passionné de l'informatique, je cherche présentement à en apprendre le plus possible pour mieux m'orienter pour le futur. Je participe donc à des hackathons et j'essaie de faire des projets personnels.
+
+Un exemple de cela serais 🎓 [Studently](https://github.com/wolf-361/Studently-CodeJam12), une application javascript faite en 36h durant un hackathon. L'objectif de celle-ci est de supporter les étudiants autant que possible.
+
+Des projets en cours serais un site web (wordpress) et un application (front-end, Flutter) pour notre association étudiante.
+
+</details>
+
+<details>
+    <summary>
+        <h2>🇨🇦 English</h2>
+    </summary>
+
+I'm Luc a first year computer student who is still looking for the exact branch I prefer. I have mostly done front-end, a tiny bit of CI / CD and some infrastructure (self-hosting a server).
+
+I am very passionnate about IT and I am still trying to discover everything I can. I am doing as much hackathons and personnal projects I can fit into my school schedule.
+
+An exemple of that would be 🎓 [Studently](https://github.com/wolf-361/Studently-CodeJam12), a javascript app made in 36h during a hackathon focused on students support.
+
+I am presently working on a website (Wordpress) and an app for my student association. I'm in charge of the front-end for the app (Flutter).
+</details>
 
 ![snake gif](https://github.com/wolf-361/wolf-361/blob/output/github-contribution-grid-snake.svg)
+
+<details open>
+    <summary>
+        <h2>🛠️ Skills / Compétences</h2>
+    </summary>
+    <p align="center">
+        <code>🐋 Docker and docker-compose</code>
+        <code>🐍 Python</code>
+        <code>☕ Java</code>
+    </p>
+    <ul>
+        <li><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></li>
+        <li><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/></li>
+        <li>C language</li>
+        <li>C++ language</li>
+        <li>C# language</li>
+        <li>Git / Github</li>
+        <li>🐧 Linux (Mostly Arch and Debian based system)</li>
+        <li>📜 Infrastructure (Configuration of DNS, Caddy, integrating Cloudflare)</li>
+        <li>📚 English/Français</li>
+    </ul>
+</details>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-463%20hrs%2038%20mins-blue)
@@ -91,41 +148,6 @@ HTML                     2 repos             █░░░░░░░░░░�
  Last Updated on 15/11/2023 12:21:51 UTC
 <!--END_SECTION:waka-->
 
-## English : 
-
-I'm Luc a first year computer student who is still looking for the exact branch I prefer. I have mostly done front-end, a tiny bit of CI / CD and some infrastructure (self-hosting a server).
-
-I am very passionnate about IT and I am still trying to discover everything I can. I am doing as much hackathons and personnal projects I can fit into my school schedule.
-
-An exemple of that would be 🎓 [Studently](https://github.com/wolf-361/Studently-CodeJam12), a javascript app made in 36h during a hackathon focused on students support.
-
-I am presently working on a website (Wordpress) and an app for my student association. I'm in charge of the front-end for the app (Flutter).
-
-## Français :
-
-Je m'appelle Luc, un étudiant en première année au Baccalauréat en informatique. Je recherche encore exactement en quoi je désire me spécialiser. J'ai pour la plupart fait du front-end, un peu de CI / CD et de l'infrastructure pour avoir un serveur maison.
-
-Je me sens très passionné de l'informatique, je cherche présentement à en apprendre le plus possible pour mieux m'orienter pour le futur. Je participe donc à des hackathons et j'essaie de faire des projets personnels.
-
-Un exemple de cela serais 🎓 [Studently](https://github.com/wolf-361/Studently-CodeJam12), une application javascript faite en 36h durant un hackathon. L'objectif de celle-ci est de supporter les étudiants autant que possible.
-
-Des projets en cours serais un site web (wordpress) et un application (front-end, Flutter) pour notre association étudiante.
-
-###  Skills / Compétences
-
-* 🐋 Docker and docker-compose
-* 🐍 Python
-* ☕ Java
-* ℱ Flutter
-* A Angular
-* C language
-* C++ language
-* 🌐 Javascript
-* 🐧 Linux (Mostly Arch and Debian based system)
-* 🧩 Algorithms
-* ✍️ Git / Github
-* 📜 Infrastructure (Configuration of DNS, Caddy, integrating Cloudflare)
-* 📚 English/Français
 
 [![An image of @wolf361's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/wolf361)](https://holopin.io/@wolf361)
 
