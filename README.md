@@ -35,28 +35,23 @@ An exemple of that would be 🎓 [Studently](https://github.com/wolf-361/Student
 I am presently working on a website (Wordpress) and an app for my student association. I'm in charge of the front-end for the app (Flutter).
 </details>
 
-![snake gif](https://github.com/wolf-361/wolf-361/blob/output/github-contribution-grid-snake.svg)
-
 <details open>
     <summary>
         <h2>🛠️ Skills / Compétences</h2>
     </summary>
     <p align="center">
+        <code>NestJs</code>
         <code>🐋 Docker and docker-compose</code>
         <code>🐍 Python</code>
         <code>☕ Java</code>
+        <code>Angular</code>
+        <code>Typescript</code>
+        <code>C/C++/C# language</code>
+        <code>Git / Github</code>
+        <code>🐧 Linux (Mostly Arch and Debian based system)</code>
+        <code>📜 Infrastructure (Configuration of DNS, Caddy, integrating Cloudflare)</code>
+        <code>📚 English/Français</code>
     </p>
-    <ul>
-        <li><img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/></li>
-        <li><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/></li>
-        <li>C language</li>
-        <li>C++ language</li>
-        <li>C# language</li>
-        <li>Git / Github</li>
-        <li>🐧 Linux (Mostly Arch and Debian based system)</li>
-        <li>📜 Infrastructure (Configuration of DNS, Caddy, integrating Cloudflare)</li>
-        <li>📚 English/Français</li>
-    </ul>
 </details>
 
 <!--START_SECTION:waka-->
