@@ -4,6 +4,11 @@
     </a>
 </h1>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wolf-361/wolf-361/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wolf-361/wolf-361/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/wolf-361/wolf-361/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <details open>
     <summary>
