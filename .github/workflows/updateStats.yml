@@ -4,8 +4,8 @@ name: Waka Readme
 # Controls when the workflow will run
 on:
   schedule:
-    # Make action run every 6 hours
-    - cron: "0 */6 * * *"
+    # Runs at 12am IST
+    - cron: '30 18 * * *'
     
   # Allows to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -27,6 +27,7 @@ jobs:
     
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      # https://github.com/anmol098/waka-readme-stats
       - uses: anmol098/waka-readme-stats@master
         with:
           # https://github.com/anmol098/waka-readme-stats
