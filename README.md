@@ -16,13 +16,13 @@
     </summary>
 
 <h3>À propos de moi</h3>
-Je m'appelle Luc, je suis un étudiant en 2e année au Baccalauréat en informatique. Je suis très passionné. J'ai aimé toutes les branches de l'informatique que j'ai essayé. Je cherche présentement à me spécialiser en web et mobile, mais je fait aussi parti du club étudiant de robotique <a href="https://asuqtr.com/" target="_blank">ASUQTR</a>. 
+Je m'appelle Luc, je suis étudiant en 2e année au Baccalauréat en informatique. Je suis très passionné. J'ai aimé toutes les branches de l'informatique que j'ai essayé. Je recherche présentement à me spécialiser en web et mobile, je fait aussi parti du club étudiant de robotique <a href="https://asuqtr.com/" target="_blank">ASUQTR</a>. 
 
 J'ai beaucoup travaillé avec l'infrastructure serveur. J'ai un petit homelab avec des server (prod/dev) qui host mon portfolio et des projet maison. De plus, j'ai été en charge du server de l'AMI lorsque j'étais encore un membre exécutif et je suis toujours en charge des serveurs ASUQTR. 
 
 Je travaille présentement en traitement d'image pour un projet de robot autonome arroseur de biopesticide. J'ai aussi travailler sur le système de vision de l'association sous-marin (ASUQTR) durant la compétition de <a href="https://robosub.org/" target="_blank">RoboSub</a> 2023.
     
-J'ai participer à quelques hackathons l'année dernière. J'aime beaucoup ce genre d'activités.
+J'ai participer à trois hackathons l'année dernière et j'ai beaucoups aimé. J'aimerais renouveler l'expérience !
 
 <h3>Mes projets récents :</h3>
 <ul>
@@ -41,13 +41,13 @@ J'ai participer à quelques hackathons l'année dernière. J'aime beaucoup ce ge
         <h2>English 🇨🇦</h2>
     </summary>
 <h3>About Me</h3>
-My name is Luc, I am a second-year student pursuing a Bachelor's degree in Computer Science. I am very passionate. I have enjoyed all the branches of computer science that I tried. I'm currently looking to specialize in web and mobile, but I'm also part of the robotics student club <a href="https://asuqtr.com/" target="_blank">ASUQTR</a> at my school.
+My name is Luc, I am a second-year student pursuing a Bachelor's degree in Computer Science. I am very passionate. I have enjoyed all the branches of computer science that I tried. I'm currently looking to specialize in web and mobile, I'm also part of the robotics student club <a href="https://asuqtr.com/" target="_blank">ASUQTR</a> at my school.
 
 I have worked alot with server infrastructure. I have a small homelab with servers (prod/dev) hosting my portfolio and personal projects. Additionally, I was in charge of the AMI server when I was still an executive member, and I am still responsible for the ASUQTR servers.
 
 I am currently working on the image processing of an autonomous biopesticide spraying robot project. I have also worked on the vision system of the underwater association (ASUQTR) during the 2023 <a href="https://robosub.org/" target="_blank">RoboSub</a> event.
 
-I participated in a few hackathons last year. I really enjoy these kinds of activities but haven't had the time this year.
+I participated in three hackathons last year. I really enjoy these kinds of activities but haven't had the time this year.
 
 <h3>My recent projects :</h3>
 <ul>
