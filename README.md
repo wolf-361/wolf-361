@@ -26,13 +26,13 @@ J'ai participer à trois hackathons l'année dernière et j'ai beaucoups aimé. 
 
 <h3>Mes projets récents :</h3>
 <ul>
-    <li>Je travaille présentement sur un nouveau portfolio <a href="https://dev-portfolio.wolf-361.ca/" target="_blank">Live</a></li>
+    <li>Je travaille présentement sur mon nouveau portfolio <a href="https://me.wolf-361.ca/" target="_blank">Live</a></li>
     <li>Un menu cli pour c# <a href="https://www.nuget.org/packages/cli-menu/" target="_blank">NuGet</a> <a href="https://github.com/wolf-361/cli-menu" target="_blank">github</a></li>
     <li>Un jeux intéractif de rapidité pour l'AMI <a href="https://ami.uqtr.ca/pow-pow/" target="_blank">Live</a> <a href="https://github.com/wolf-361/AMI_pow_pow" target="_blank">Github</a></li>
     <li>Le site web d'ASUQTR <a href="https://asuqtr.com/" target="_blank">Live</a></li>
     <li>Un site pour l'intégration de l'association de Math-Info (AMI) <a href="https://ami.uqtr.ca/integration/" target="_blank">Live</a></li>
     <li>Studently, une application pour le support des étudiant fait en 36h dans un hackathon <a href="https://github.com/wolf-361/Studently-CodeJam12" target="_blank">Github</a>
-    <li>Mon portfolio présent <a href="https://me.wolf-361.ca/" target="_blank">Live</a> <a href="https://github.com/wolf-361/old_portfolio" target="_blank">Github</a></li>
+    <li>Mon ancien portfolio <a href="https://old-portfolio.wolf-361.ca/" target="_blank">Live</a> <a href="https://github.com/wolf-361/old_portfolio" target="_blank">Github</a></li>
 </ul>
 </details>
 
@@ -51,13 +51,13 @@ I participated in three hackathons last year. I really enjoy these kinds of acti
 
 <h3>My recent projects :</h3>
 <ul>
-    <li>I am currently working on a new portfolio <a href="https://dev-portfolio.wolf-361.ca/" target="_blank">Live</a></li>
+    <li>I am currently working on my new portfolio <a href="https://me.wolf-361.ca/" target="_blank">Live</a></li>
     <li>A command-line menu for C# <a href="https://www.nuget.org/packages/cli-menu/" target="_blank">NuGet</a> <a href="https://github.com/wolf-361/cli-menu" target="_blank">GitHub</a></li>
     <li>An interactive speed game for AMI <a href="https://ami.uqtr.ca/pow-pow/" target="_blank">Live</a> <a href="https://github.com/wolf-361/AMI_pow_pow" target="_blank">GitHub</a></li>
     <li>The ASUQTR website <a href="https://asuqtr.com/" target="_blank">Live</a></li>
     <li>A website for the integration of my student association (AMI) <a href="https://ami.uqtr.ca/integration/" target="_blank">Live</a></li>
     <li>Studently, an application for student support made in 36 hours during a hackathon <a href="https://github.com/wolf-361/Studently-CodeJam12" target="_blank">GitHub</a></li>
-    <li>My current portfolio <a href="https://me.wolf-361.ca/" target="_blank">Live</a> <a href="https://github.com/wolf-361/old_portfolio" target="_blank">GitHub</a></li>
+    <li>My old portfolio <a href="https://old-portfolio.wolf-361.ca/" target="_blank">Live</a> <a href="https://github.com/wolf-361/old_portfolio" target="_blank">GitHub</a></li>
 </ul>
 </details>
 
