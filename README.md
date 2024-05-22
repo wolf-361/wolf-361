@@ -81,7 +81,7 @@ I participated in three hackathons last year. I really enjoy these kinds of acti
 </details>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-885%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-890%20hrs%2022%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
@@ -110,11 +110,11 @@ Sunday                   415 commits         ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ```text
 💬 Programming Languages: 
-JavaScript               5 hrs 17 mins       ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.28 % 
-Other                    3 hrs 45 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.82 % 
-JSON                     3 hrs 8 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.21 % 
-Markdown                 2 hrs 12 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.31 % 
-YAML                     1 hr 59 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.38 % 
+JavaScript               5 hrs 30 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.20 % 
+JSON                     4 hrs 2 mins        ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.58 % 
+Markdown                 3 hrs 30 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.52 % 
+Other                    3 hrs 13 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.44 % 
+TypeScript               2 hrs 33 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.83 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -130,7 +130,7 @@ C++                      1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 21/05/2024 18:51:19 UTC
+ Last Updated on 22/05/2024 18:52:25 UTC
 <!--END_SECTION:waka-->
 
 
