@@ -81,6 +81,8 @@ I participated in three hackathons last year. I really enjoy these kinds of acti
 </details>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C678%20hrs%2037%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
 **I Mostly Code in TypeScript** 
@@ -96,7 +98,7 @@ Kotlin                   1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 20/09/2025 18:41:50 UTC
+ Last Updated on 21/09/2025 18:43:51 UTC
 <!--END_SECTION:waka-->
 
 
