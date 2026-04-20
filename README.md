@@ -1,8 +1,12 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=Bienvenue;Welcome;Je+suis+un+%C3%A9tudiant+en+informatique;I+am+a+computer+science+student;I+am+an+opensorcerer+%F0%9F%A7%99" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&random=false&width=500&lines=Bienvenue;Welcome;Je+cherche+un+poste+%F0%9F%94%8D;Open+to+work+%F0%9F%94%8D;D%C3%A9veloppeur+Mobile+%7C+Full-Stack+%7C+DevOps;Mobile+%7C+Full-Stack+%7C+DevOps+Dev;I+am+an+opensorcerer+%F0%9F%A7%99" alt="Typing SVG" />
     </a>
 </h1>
+
+<p align="center">
+  <a href="mailto:wolf361.it@gmail.com"><img src="https://img.shields.io/badge/Open%20to%20Work-Disponible%20en%20août%20%7C%20Available%20August-brightgreen?style=for-the-badge&logo=briefcase" /></a>
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wolf-361/wolf-361/output/github-contribution-grid-snake-dark.svg" />
@@ -16,23 +20,27 @@
     </summary>
 
 <h3>À propos de moi</h3>
-Je m'appelle Luc, je suis étudiant en 2e année au Baccalauréat en informatique. Je suis très passionné. J'ai aimé toutes les branches de l'informatique que j'ai essayé. Je recherche présentement à me spécialiser en web et mobile, je fait aussi parti du club étudiant de robotique <a href="https://asuqtr.com/" target="_blank">ASUQTR</a>. 
 
-J'ai beaucoup travaillé avec l'infrastructure serveur. J'ai un petit homelab avec des server (prod/dev) qui host mon portfolio et des projet maison. De plus, j'ai été en charge du server de l'AMI lorsque j'étais encore un membre exécutif et je suis toujours en charge des serveurs ASUQTR. 
+Je m'appelle Luc, je suis finissant au Baccalauréat en informatique à l'UQTR. Je termine mes cours sous peu et je complèterai mon cursus avec un stage en entreprise cet été. <strong>Je suis disponible pour un poste à temps plein à partir d'août 2026.</strong>
 
-Je travaille présentement en traitement d'image pour un projet de robot autonome arroseur de biopesticide. J'ai aussi travailler sur le système de vision de l'association sous-marin (ASUQTR) durant la compétition de <a href="https://robosub.org/" target="_blank">RoboSub</a> 2023.
-    
-J'ai participer à trois hackathons l'année dernière et j'ai beaucoups aimé. J'aimerais renouveler l'expérience !
+Je me spécialise en développement <strong>mobile (Kotlin Multiplatform, Android, iOS)</strong>, mais j'ai aussi une forte expérience en <strong>full-stack</strong> et en <strong>DevOps/infrastructure</strong>. J'aime construire des systèmes complets, du code applicatif jusqu'à l'automatisation de l'infrastructure.
 
-<h3>Mes projets récents :</h3>
+J'ai un homelab multi-nœuds (Debian bare-metal, Coolify, NetBird mesh VPN, Cloudflare Tunnels) que je gère entièrement en Infrastructure as Code avec Ansible. J'ai aussi fait partie du club de robotique <a href="https://asuqtr.com/" target="_blank">ASUQTR</a> et travaillé sur des projets de vision par ordinateur pour des robots autonomes.
+
+<h3>Projets actuels :</h3>
 <ul>
-    <li>Je travaille présentement sur mon nouveau portfolio <a href="https://me.wolf-361.ca/" target="_blank">Live</a></li>
-    <li>Un menu cli pour c# <a href="https://www.nuget.org/packages/cli-menu/" target="_blank">NuGet</a> <a href="https://github.com/wolf-361/cli-menu" target="_blank">github</a></li>
-    <li>Un jeux intéractif de rapidité pour l'AMI <a href="https://ami.uqtr.ca/pow-pow/" target="_blank">Live</a> <a href="https://github.com/wolf-361/AMI_pow_pow" target="_blank">Github</a></li>
-    <li>Le site web d'ASUQTR <a href="https://asuqtr.com/" target="_blank">Live</a></li>
-    <li>Un site pour l'intégration de l'association de Math-Info (AMI) <a href="https://ami.uqtr.ca/integration/" target="_blank">Live</a></li>
-    <li>Studently, une application pour le support des étudiant fait en 36h dans un hackathon <a href="https://github.com/wolf-361/Studently-CodeJam12" target="_blank">Github</a>
-    <li>Mon ancien portfolio <a href="https://old-portfolio.wolf-361.ca/" target="_blank">Live</a> <a href="https://github.com/wolf-361/old_portfolio" target="_blank">Github</a></li>
+    <li>
+        <strong>Planific</strong> — Application de planification scolaire multiplateforme (Android &amp; iOS) développée avec <strong>Kotlin Multiplatform</strong>, Jetpack Compose, SwiftUI et une architecture Clean/MVI. Backend NestJS déployé sur Google Cloud Run.
+    </li>
+    <li>
+        <strong>Spring Templates</strong> — Deux gabarits Spring Boot production-ready : un service d'identité complet (auth, OAuth, JWT, refresh tokens) et un service applicatif en architecture Clean. Conçus pour accélérer le démarrage de nouveaux projets. <a href="https://github.com/wolf-361/spring-identity-template" target="_blank">Identity</a> · <a href="https://github.com/wolf-361/spring-core-template" target="_blank">Core</a>
+    </li>
+    <li>
+        <strong>Traefik Mesh Companion</strong> — Outil Go (conteneur 10 MB) qui synchronise automatiquement les routes Traefik vers Cloudflare DNS, NetBird VPN et Uptime Kuma. Zéro configuration, 100% de couverture de tests sur la logique centrale. <a href="https://github.com/wolf-infra/traefik-mesh-companion" target="_blank">GitHub</a>
+    </li>
+    <li>
+        <strong>Homelab (home-ops)</strong> — Cluster bare-metal 3 nœuds provisionné entièrement avec Ansible. Architecture zéro-trust avec NetBird + Cloudflare Tunnels, UFW, Fail2Ban et mises à jour de sécurité automatiques.
+    </li>
 </ul>
 </details>
 
@@ -41,23 +49,27 @@ J'ai participer à trois hackathons l'année dernière et j'ai beaucoups aimé. 
         <h2>English 🇨🇦</h2>
     </summary>
 <h3>About Me</h3>
-My name is Luc, I am a second-year student pursuing a Bachelor's degree in Computer Science. I am very passionate. I have enjoyed all the branches of computer science that I tried. I'm currently looking to specialize in web and mobile, I'm also part of the robotics student club <a href="https://asuqtr.com/" target="_blank">ASUQTR</a> at my school.
 
-I have worked alot with server infrastructure. I have a small homelab with servers (prod/dev) hosting my portfolio and personal projects. Additionally, I was in charge of the AMI server when I was still an executive member, and I am still responsible for the ASUQTR servers.
+My name is Luc, I'm a final-year Computer Science student at UQTR. I'm finishing classes soon and will complete my degree with a summer internship. <strong>I am available for full-time work starting August 2026.</strong>
 
-I am currently working on the image processing of an autonomous biopesticide spraying robot project. I have also worked on the vision system of the underwater association (ASUQTR) during the 2023 <a href="https://robosub.org/" target="_blank">RoboSub</a> event.
+I specialize in <strong>mobile development (Kotlin Multiplatform, Android, iOS)</strong>, with solid experience in <strong>full-stack</strong> and <strong>DevOps/infrastructure</strong> as well. I enjoy building complete systems — from application code all the way to automated infrastructure.
 
-I participated in three hackathons last year. I really enjoy these kinds of activities but haven't had the time this year.
+I run a multi-node homelab (bare-metal Debian, Coolify, NetBird mesh VPN, Cloudflare Tunnels) fully managed as Infrastructure as Code with Ansible. I was also part of the <a href="https://asuqtr.com/" target="_blank">ASUQTR</a> robotics club and worked on computer vision systems for autonomous robots.
 
-<h3>My recent projects :</h3>
+<h3>Current projects:</h3>
 <ul>
-    <li>I am currently working on my new portfolio <a href="https://me.wolf-361.ca/" target="_blank">Live</a></li>
-    <li>A command-line menu for C# <a href="https://www.nuget.org/packages/cli-menu/" target="_blank">NuGet</a> <a href="https://github.com/wolf-361/cli-menu" target="_blank">GitHub</a></li>
-    <li>An interactive speed game for AMI <a href="https://ami.uqtr.ca/pow-pow/" target="_blank">Live</a> <a href="https://github.com/wolf-361/AMI_pow_pow" target="_blank">GitHub</a></li>
-    <li>The ASUQTR website <a href="https://asuqtr.com/" target="_blank">Live</a></li>
-    <li>A website for the integration of my student association (AMI) <a href="https://ami.uqtr.ca/integration/" target="_blank">Live</a></li>
-    <li>Studently, an application for student support made in 36 hours during a hackathon <a href="https://github.com/wolf-361/Studently-CodeJam12" target="_blank">GitHub</a></li>
-    <li>My old portfolio <a href="https://old-portfolio.wolf-361.ca/" target="_blank">Live</a> <a href="https://github.com/wolf-361/old_portfolio" target="_blank">GitHub</a></li>
+    <li>
+        <strong>Planific</strong> — A cross-platform student planner app (Android &amp; iOS) built with <strong>Kotlin Multiplatform</strong>, Jetpack Compose, SwiftUI, and a Clean/MVI architecture. NestJS backend deployed on Google Cloud Run.
+    </li>
+    <li>
+        <strong>Spring Templates</strong> — Two production-ready Spring Boot templates: a full identity service (auth, OAuth, JWT, refresh tokens) and a feature-first application service. Built to remove boilerplate from new projects. <a href="https://github.com/wolf-361/spring-identity-template" target="_blank">Identity</a> · <a href="https://github.com/wolf-361/spring-core-template" target="_blank">Core</a>
+    </li>
+    <li>
+        <strong>Traefik Mesh Companion</strong> — A Go tool (10 MB container) that automatically syncs Traefik routes to Cloudflare DNS, NetBird VPN, and Uptime Kuma. Zero config, 100% test coverage on core logic. <a href="https://github.com/wolf-infra/traefik-mesh-companion" target="_blank">GitHub</a>
+    </li>
+    <li>
+        <strong>Homelab (home-ops)</strong> — 3-node bare-metal cluster fully provisioned with Ansible. Zero-trust architecture with NetBird + Cloudflare Tunnels, UFW, Fail2Ban, and automatic security patching.
+    </li>
 </ul>
 </details>
 
@@ -66,17 +78,48 @@ I participated in three hackathons last year. I really enjoy these kinds of acti
         <h2>🛠️ Skills / Compétences</h2>
     </summary>
     <p align="center">
-        <code>NestJs</code>
-        <code>🐋 Docker and docker-compose</code>
+        <strong>Mobile</strong><br/>
+        <code>📱 Kotlin Multiplatform (KMP)</code>
+        <code>🤖 Android (Jetpack Compose)</code>
+        <code>🍎 iOS (SwiftUI)</code>
+    </p>
+    <p align="center">
+        <strong>Backend &amp; Languages</strong><br/>
+        <code>☕ Kotlin / Java / Spring Boot</code>
+        <code>🐹 Go</code>
+        <code>NestJS / TypeScript</code>
         <code>🐍 Python</code>
-        <code>☕ Java</code>
+        <code>C / C++ / C#</code>
+    </p>
+    <p align="center">
+        <strong>Frontend</strong><br/>
         <code>Angular</code>
-        <code>Typescript</code>
-        <code>C/C++/C# language</code>
-        <code>Git / Github</code>
-        <code>🐧 Linux (Mostly Arch and Debian based system)</code>
-        <code>📜 Infrastructure (Configuration of DNS, Caddy, integrating Cloudflare)</code>
-        <code>📚 English/Français</code>
+        <code>React</code>
+        <code>TypeScript</code>
+        <code>HTML / CSS</code>
+    </p>
+    <p align="center">
+        <strong>Data &amp; Cloud</strong><br/>
+        <code>🐘 PostgreSQL</code>
+        <code>🔥 Firebase (FCM)</code>
+        <code>☁️ Google Cloud Run</code>
+    </p>
+    <p align="center">
+        <strong>DevOps &amp; Infrastructure</strong><br/>
+        <code>🐋 Docker &amp; docker-compose</code>
+        <code>📦 Ansible</code>
+        <code>Coolify</code>
+        <code>Traefik</code>
+        <code>NetBird</code>
+        <code>Cloudflare</code>
+        <code>Uptime Kuma</code>
+        <code>GitHub Actions (CI/CD)</code>
+    </p>
+    <p align="center">
+        <strong>OS &amp; Other</strong><br/>
+        <code>🐧 Linux (Debian / Arch)</code>
+        <code>Git</code>
+        <code>📚 English / Français</code>
     </p>
 </details>
 
