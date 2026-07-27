@@ -136,6 +136,8 @@ J'ai un homelab multi-nœuds (Debian bare-metal, Coolify, NetBird mesh VPN, Clou
 </p>
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-194%20hrs%2058%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -147,8 +149,34 @@ Markdown                 36 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 TOML                     18 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.41 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 26/07/2026 19:40:42 UTC
+```text
+⏱ AI Coding Time: 20 hrs 34 mins (95.08%)
+
+✍️ 2,283 lines written by AI, 4 lines written by hand (99.83% AI-written)
+
+🔤 127,299,830 Input Tokens, 1,043,918 Output Tokens
+
+💵 $393.81 Estimated AI Cost This Week
+
+🧠 23 AI Sessions, 200 AI Prompts
+
+Sonnet                   1,793 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   64.54 % 
+Antigravity-Desktop      721 lines           ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.95 % 
+Gemini                   264 lines           ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.50 % 
+Haiku                    0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
+Claude-Code              0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.83% of written lines came from AI
+📚 Verbose Prompter — average 1,647 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 0.14% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 20:00:48 UTC
 <!--END_SECTION:waka-->
 
 
