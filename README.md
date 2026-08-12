@@ -136,46 +136,45 @@ J'ai un homelab multi-nœuds (Debian bare-metal, Coolify, NetBird mesh VPN, Clou
 </p>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-240%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-242%20hrs%2026%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Kotlin                   27 hrs 17 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   96.45 % 
-Markdown                 38 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.24 % 
+Kotlin                   27 hrs 37 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   97.40 % 
+Markdown                 25 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.51 % 
 Text                     8 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.50 % 
-Other                    5 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.35 % 
 YAML                     4 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.25 % 
+XML                      3 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 17 mins (92.9%)
+⏱ AI Coding Time: 26 hrs 19 mins (92.84%)
 
-✍️ 3,381 lines written by AI, 462 lines written by hand (87.98% AI-written)
+✍️ 3,336 lines written by AI, 462 lines written by hand (87.84% AI-written)
 
-🔤 74,413,422 Input Tokens, 1,396,583 Output Tokens
+🔤 69,682,840 Input Tokens, 1,488,232 Output Tokens
 
-💵 $264.85 Estimated AI Cost This Week
+💵 $254.48 Estimated AI Cost This Week
 
-🧠 25 AI Sessions, 380 AI Prompts
+🧠 15 AI Sessions, 367 AI Prompts
 
-Sonnet                   3,536 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   69.32 % 
-Gemini                   1,553 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.45 % 
-Antigravity-Desktop      12 lines            ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.24 % 
+Sonnet                   3,534 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   69.62 % 
+Gemini                   1,542 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.38 % 
 Haiku                    0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 87.98% of written lines came from AI
-📄 Detailed Prompter — average 836 characters per prompt
-🔁 Iterative Prompter — average 15 prompts per session
-🔍 Hands-On Reviewer — 78.76% of changed lines were hand-edited
+🤖 AI-Driven — 87.84% of written lines came from AI
+📄 Detailed Prompter — average 864 characters per prompt
+🔁 Iterative Prompter — average 24 prompts per session
+🔍 Hands-On Reviewer — 78.85% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/08/2026 19:31:00 UTC
+ Last Updated on 12/08/2026 19:32:22 UTC
 <!--END_SECTION:waka-->
 
 
