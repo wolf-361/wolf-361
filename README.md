@@ -132,8 +132,8 @@ Je travaille comme développeur KMP chez <strong>Simaudio (MOON)</strong> depuis
 </details>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wolf-361&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolf-361&layout=compact&theme=dark&hide_border=true&langs_count=8" height="160" />
+  <img src="https://raw.githubusercontent.com/wolf-361/wolf-361/main/profile/stats.svg" height="160" />
+  <img src="https://raw.githubusercontent.com/wolf-361/wolf-361/main/profile/top-langs.svg" height="160" />
 </p>
 
 <!--START_SECTION:waka-->
