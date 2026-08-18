@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <a href="mailto:wolf-361@hotmail.com"><img src="https://img.shields.io/badge/Open%20to%20Work-Disponible%20en%20août%20%7C%20Available%20August-brightgreen?style=for-the-badge&logo=briefcase" /></a>
+  <a href="mailto:wolf-361@hotmail.com"><img src="https://img.shields.io/badge/Open%20to%20Work-3%20weeks%20notice%20%7C%20sous%203%20semaines-brightgreen?style=for-the-badge&logo=briefcase" /></a>
   <a href="https://www.linkedin.com/in/wolf361"><img src="https://img.shields.io/badge/LinkedIn-wolf361-0A66C2?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://me.wolf-361.ca"><img src="https://img.shields.io/badge/Portfolio-me.wolf--361.ca-orange?style=for-the-badge&logo=firefox-browser" /></a>
 </p>
@@ -61,6 +61,7 @@
         <code>Cloudflare</code>
         <code>Uptime Kuma</code>
         <code>GitHub Actions (CI/CD)</code>
+        <code>TeamCity</code>
     </p>
     <p align="center">
         <strong>OS &amp; Other</strong><br/>
@@ -77,11 +78,11 @@
 
 <h3>About Me</h3>
 
-My name is Luc, I'm a final-year Computer Science student at UQTR. I'm finishing classes soon and will complete my degree with a summer internship. <strong>I am available for full-time work starting August 2026.</strong>
+My name is Luc — bilingual KMP mobile developer based in Trois-Rivières, QC, with a B.Sc. in Computer Science from UQTR. <strong>I am available for new opportunities with a 3 weeks notice.</strong>
 
 I specialize in <strong>mobile development (Kotlin Multiplatform, Android, iOS)</strong>, with solid experience in <strong>full-stack</strong> and <strong>DevOps/infrastructure</strong> as well. I enjoy building complete systems — from application code all the way to automated infrastructure.
 
-I run a multi-node homelab (bare-metal Debian, Coolify, NetBird mesh VPN, Cloudflare Tunnels) fully managed as Infrastructure as Code with Ansible. I was also part of the <a href="https://asuqtr.com/" target="_blank">ASUQTR</a> robotics club and worked on computer vision systems for autonomous robots.
+I've been working as a KMP developer at <strong>Simaudio (MOON)</strong> since 2025, where I reverse-engineered a proprietary TCP protocol, rebuilt a CI/CD pipeline for a .NET → KMP migration, and shipped production code across Android and iOS. I also run a multi-node homelab fully managed as Infrastructure as Code with Ansible, and was part of the <a href="https://asuqtr.com/" target="_blank">ASUQTR</a> robotics club.
 
 <h3>Current projects:</h3>
 <ul>
@@ -89,10 +90,10 @@ I run a multi-node homelab (bare-metal Debian, Coolify, NetBird mesh VPN, Cloudf
         <strong>Planific</strong> — A cross-platform student planner app (Android &amp; iOS) built with <strong>Kotlin Multiplatform</strong>, Jetpack Compose, SwiftUI, and a Clean/MVI architecture. NestJS backend deployed on Google Cloud Run.
     </li>
     <li>
-        <strong>Spring Templates</strong> — Two production-ready Spring Boot templates: a full identity service (auth, OAuth, JWT, refresh tokens) and a feature-first application service. Built to remove boilerplate from new projects. <a href="https://github.com/wolf-361/spring-identity-template" target="_blank">Identity</a> · <a href="https://github.com/wolf-361/spring-core-template" target="_blank">Core</a>
+        <strong>Traefik Mesh Companion</strong> — A Go tool (10 MB container) that automatically syncs Traefik routes to Cloudflare DNS, NetBird VPN, and Uptime Kuma. Zero config, 100% test coverage on core logic. <a href="https://github.com/wolf-infra/traefik-mesh-companion" target="_blank">GitHub</a>
     </li>
     <li>
-        <strong>Traefik Mesh Companion</strong> — A Go tool (10 MB container) that automatically syncs Traefik routes to Cloudflare DNS, NetBird VPN, and Uptime Kuma. Zero config, 100% test coverage on core logic. <a href="https://github.com/wolf-infra/traefik-mesh-companion" target="_blank">GitHub</a>
+        <strong>Spring Templates</strong> — Two production-ready Spring Boot templates: a full identity service (auth, OAuth, JWT, refresh tokens) and a feature-first application service. Built to remove boilerplate from new projects. <a href="https://github.com/wolf-361/spring-identity-template" target="_blank">Identity</a> · <a href="https://github.com/wolf-361/spring-core-template" target="_blank">Core</a>
     </li>
     <li>
         <strong>Homelab (home-ops)</strong> — 3-node bare-metal cluster fully provisioned with Ansible. Zero-trust architecture with NetBird + Cloudflare Tunnels, UFW, Fail2Ban, and automatic security patching.
@@ -107,11 +108,11 @@ I run a multi-node homelab (bare-metal Debian, Coolify, NetBird mesh VPN, Cloudf
 
 <h3>À propos de moi</h3>
 
-Je m'appelle Luc, je suis finissant au Baccalauréat en informatique à l'UQTR. Je termine mes cours sous peu et je complèterai mon cursus avec un stage en entreprise cet été. <strong>Je suis disponible pour un poste à temps plein à partir d'août 2026.</strong>
+Je m'appelle Luc — développeur mobile KMP bilingue basé à Trois-Rivières, QC, avec un B.Sc. en informatique de l'UQTR. <strong>Je suis disponible pour de nouvelles opportunités sous un préavis de 3 semaines.</strong>
 
 Je me spécialise en développement <strong>mobile (Kotlin Multiplatform, Android, iOS)</strong>, mais j'ai aussi une forte expérience en <strong>full-stack</strong> et en <strong>DevOps/infrastructure</strong>. J'aime construire des systèmes complets, du code applicatif jusqu'à l'automatisation de l'infrastructure.
 
-J'ai un homelab multi-nœuds (Debian bare-metal, Coolify, NetBird mesh VPN, Cloudflare Tunnels) que je gère entièrement en Infrastructure as Code avec Ansible. J'ai aussi fait partie du club de robotique <a href="https://asuqtr.com/" target="_blank">ASUQTR</a> et travaillé sur des projets de vision par ordinateur pour des robots autonomes.
+Je travaille comme développeur KMP chez <strong>Simaudio (MOON)</strong> depuis 2025, où j'ai procédé à de la rétro-ingénierie d'un protocole TCP propriétaire, reconstruit un pipeline CI/CD pour une migration .NET → KMP, et livré du code en production sur Android et iOS. Je gère aussi un homelab multi-nœuds entièrement en Infrastructure as Code avec Ansible, et j'ai fait partie du club de robotique <a href="https://asuqtr.com/" target="_blank">ASUQTR</a>.
 
 <h3>Projets actuels :</h3>
 <ul>
@@ -119,10 +120,10 @@ J'ai un homelab multi-nœuds (Debian bare-metal, Coolify, NetBird mesh VPN, Clou
         <strong>Planific</strong> — Application de planification scolaire multiplateforme (Android &amp; iOS) développée avec <strong>Kotlin Multiplatform</strong>, Jetpack Compose, SwiftUI et une architecture Clean/MVI. Backend NestJS déployé sur Google Cloud Run.
     </li>
     <li>
-        <strong>Spring Templates</strong> — Deux gabarits Spring Boot production-ready : un service d'identité complet (auth, OAuth, JWT, refresh tokens) et un service applicatif en architecture Clean. Conçus pour accélérer le démarrage de nouveaux projets. <a href="https://github.com/wolf-361/spring-identity-template" target="_blank">Identity</a> · <a href="https://github.com/wolf-361/spring-core-template" target="_blank">Core</a>
+        <strong>Traefik Mesh Companion</strong> — Outil Go (conteneur 10 MB) qui synchronise automatiquement les routes Traefik vers Cloudflare DNS, NetBird VPN et Uptime Kuma. Zéro configuration, 100% de couverture de tests sur la logique centrale. <a href="https://github.com/wolf-infra/traefik-mesh-companion" target="_blank">GitHub</a>
     </li>
     <li>
-        <strong>Traefik Mesh Companion</strong> — Outil Go (conteneur 10 MB) qui synchronise automatiquement les routes Traefik vers Cloudflare DNS, NetBird VPN et Uptime Kuma. Zéro configuration, 100% de couverture de tests sur la logique centrale. <a href="https://github.com/wolf-infra/traefik-mesh-companion" target="_blank">GitHub</a>
+        <strong>Spring Templates</strong> — Deux gabarits Spring Boot production-ready : un service d'identité complet (auth, OAuth, JWT, refresh tokens) et un service applicatif en architecture Clean. Conçus pour accélérer le démarrage de nouveaux projets. <a href="https://github.com/wolf-361/spring-identity-template" target="_blank">Identity</a> · <a href="https://github.com/wolf-361/spring-core-template" target="_blank">Core</a>
     </li>
     <li>
         <strong>Homelab (home-ops)</strong> — Cluster bare-metal 3 nœuds provisionné entièrement avec Ansible. Architecture zéro-trust avec NetBird + Cloudflare Tunnels, UFW, Fail2Ban et mises à jour de sécurité automatiques.
