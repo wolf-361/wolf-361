@@ -137,45 +137,46 @@ Je travaille comme développeur KMP chez <strong>Simaudio (MOON)</strong> depuis
 </p>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-262%20hrs%2041%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-266%20hrs%2023%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Kotlin                   10 hrs 2 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   48.29 % 
-Markdown                 6 hrs 13 mins       ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   29.96 % 
-Other                    2 hrs 44 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.20 % 
-YAML                     55 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.48 % 
-Java Properties          17 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.44 % 
+Kotlin                   9 hrs 44 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   49.74 % 
+Markdown                 5 hrs 4 mins        ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   25.91 % 
+Other                    2 hrs 46 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.17 % 
+YAML                     48 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.13 % 
+Bash                     29 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 hrs 16 mins (97.52%)
+⏱ AI Coding Time: 19 hrs 16 mins (98.35%)
 
-✍️ 412 lines written by AI, 28 lines written by hand (93.64% AI-written)
+✍️ 1,373 lines written by AI, 17 lines written by hand (98.78% AI-written)
 
-🔤 691,699 Input Tokens, 146,950 Output Tokens
+🔤 1,331,048 Input Tokens, 318,427 Output Tokens
 
-💵 $9.78 Estimated AI Cost This Week
+💵 $24.00 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 368 AI Prompts
+🧠 16 AI Sessions, 335 AI Prompts
 
-Gemini                   447 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   66.03 % 
-Sonnet                   230 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   33.97 % 
+Sonnet                   1,353 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   81.16 % 
+Gemini                   314 lines           ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.84 % 
+Opus                     0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 Claude-Code              0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.64% of written lines came from AI
-📝 Concise Prompter — average 353 characters per prompt
-🔁 Iterative Prompter — average 25 prompts per session
-🚀 High AI Trust — 10.9% of changed lines were hand-edited
+🤖 AI-Driven — 98.78% of written lines came from AI
+📄 Detailed Prompter — average 985 characters per prompt
+🔁 Iterative Prompter — average 21 prompts per session
+🚀 High AI Trust — 3.72% of changed lines were hand-edited
 ```
 
 
- Last Updated on 19/08/2026 18:58:53 UTC
+ Last Updated on 20/08/2026 19:07:20 UTC
 <!--END_SECTION:waka-->
 
 
