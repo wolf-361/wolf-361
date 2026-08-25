@@ -143,41 +143,40 @@ Je travaille comme développeur KMP chez <strong>Simaudio (MOON)</strong> depuis
 
 ```text
 💬 Programming Languages: 
-Kotlin                   8 hrs 35 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀   71.58 % 
-Markdown                 2 hrs 14 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.64 % 
-Bash                     24 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.37 % 
-Other                    23 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.26 % 
-Java Properties          8 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.15 % 
+Kotlin                   6 hrs 45 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   67.82 % 
+Markdown                 2 hrs 9 mins        ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.68 % 
+Bash                     25 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.18 % 
+Java Properties          11 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.92 % 
+Other                    10 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.78 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 33 mins (96.2%)
+⏱ AI Coding Time: 9 hrs 41 mins (97.29%)
 
-✍️ 1,729 lines written by AI, 54 lines written by hand (96.97% AI-written)
+✍️ 1,868 lines written by AI, 40 lines written by hand (97.9% AI-written)
 
-🔤 2,053,550 Input Tokens, 417,839 Output Tokens
+🔤 2,094,568 Input Tokens, 419,612 Output Tokens
 
-💵 $32.58 Estimated AI Cost This Week
+💵 $34.55 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 198 AI Prompts
+🧠 13 AI Sessions, 149 AI Prompts
 
-Sonnet                   1,956 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   98.59 % 
-Gemini                   28 lines            ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.41 % 
+Sonnet                   2,055 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 Opus                     0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 Haiku                    0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 Claude-Code              0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.97% of written lines came from AI
-📚 Verbose Prompter — average 1,570 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🚀 High AI Trust — 4.88% of changed lines were hand-edited
+🤖 AI-Driven — 97.9% of written lines came from AI
+📚 Verbose Prompter — average 2,016 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 3.57% of changed lines were hand-edited
 ```
 
 
- Last Updated on 24/08/2026 19:07:10 UTC
+ Last Updated on 25/08/2026 19:05:29 UTC
 <!--END_SECTION:waka-->
 
 
