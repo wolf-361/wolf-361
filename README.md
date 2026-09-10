@@ -143,38 +143,37 @@ Je travaille comme développeur KMP chez <strong>Simaudio (MOON)</strong> depuis
 
 ```text
 💬 Programming Languages: 
-Other                    7 hrs 44 mins       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   69.30 % 
-textmate                 1 hr 17 mins        ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.65 % 
-Markdown                 52 mins             ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.83 % 
-Kotlin                   37 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.58 % 
-Bash                     27 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.17 % 
+Other                    7 hrs 6 mins        ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   85.87 % 
+textmate                 1 hr 2 mins         ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   12.57 % 
+Bash                     6 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.40 % 
+YAML                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 5 mins (99.35%)
+⏱ AI Coding Time: 8 hrs 12 mins (99.13%)
 
-✍️ 97 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 28 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 574,256 Input Tokens, 121,167 Output Tokens
+🔤 195,981 Input Tokens, 42,965 Output Tokens
 
-💵 $6.85 Estimated AI Cost This Week
+💵 $2.27 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 183 AI Prompts
+🧠 6 AI Sessions, 137 AI Prompts
 
-Sonnet                   335 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Sonnet                   266 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 Haiku                    0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 3,279 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
+📚 Verbose Prompter — average 4,097 characters per prompt
+🔁 Iterative Prompter — average 23 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/09/2026 21:01:40 UTC
+ Last Updated on 10/09/2026 21:00:09 UTC
 <!--END_SECTION:waka-->
 
 
