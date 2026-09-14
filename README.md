@@ -137,23 +137,23 @@ Je travaille comme développeur KMP chez <strong>Simaudio (MOON)</strong> depuis
 </p>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-299%20hrs%2044%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-301%20hrs%2044%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Kotlin                   10 hrs 19 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   94.58 % 
-Other                    24 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.73 % 
-Swift                    10 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.59 % 
-Markdown                 0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.08 % 
+Kotlin                   12 hrs 12 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀   94.53 % 
+Other                    31 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.04 % 
+Swift                    10 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.35 % 
+Markdown                 0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.06 % 
 textmate                 0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.01 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 35 mins (97.04%)
+⏱ AI Coding Time: 12 hrs 35 mins (97.5%)
 
 ✍️ 48 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
@@ -161,19 +161,19 @@ textmate                 0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 💵 $7.14 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 231 AI Prompts
+🧠 8 AI Sessions, 298 AI Prompts
 
 Sonnet                   134 lines           ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 436 characters per prompt
-🔁 Iterative Prompter — average 33 prompts per session
+📝 Concise Prompter — average 357 characters per prompt
+🔁 Iterative Prompter — average 37 prompts per session
 🚀 High AI Trust — 17.28% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/09/2026 20:57:54 UTC
+ Last Updated on 14/09/2026 21:55:27 UTC
 <!--END_SECTION:waka-->
 
 
