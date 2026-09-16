@@ -137,43 +137,44 @@ Je travaille comme développeur KMP chez <strong>Simaudio (MOON)</strong> depuis
 </p>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-308%20hrs%2031%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-313%20hrs%2050%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Kotlin                   14 hrs 47 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   77.02 % 
-Other                    3 hrs 13 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.79 % 
-Markdown                 55 mins             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.83 % 
-Swift                    10 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.91 % 
-Python                   5 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.44 % 
+Kotlin                   16 hrs 24 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   75.54 % 
+Other                    3 hrs 43 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.17 % 
+Markdown                 1 hr 17 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.93 % 
+Text                     6 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.53 % 
+Python                   5 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.39 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 18 hrs 52 mins (98.32%)
+⏱ AI Coding Time: 21 hrs 17 mins (98.03%)
 
-✍️ 1,576 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 4,146 lines written by AI, 7 lines written by hand (99.83% AI-written)
 
-🔤 900,477 Input Tokens, 255,071 Output Tokens
+🔤 1,391,022 Input Tokens, 432,881 Output Tokens
 
-💵 $17.68 Estimated AI Cost This Week
+💵 $27.83 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 393 AI Prompts
+🧠 13 AI Sessions, 449 AI Prompts
 
-Sonnet                   1,754 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Sonnet                   4,853 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Claude-Code              0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 464 characters per prompt
-🔁 Iterative Prompter — average 36 prompts per session
-🚀 High AI Trust — 1.57% of changed lines were hand-edited
+🤖 AI-Driven — 99.83% of written lines came from AI
+📄 Detailed Prompter — average 505 characters per prompt
+🔁 Iterative Prompter — average 35 prompts per session
+🚀 High AI Trust — 0.74% of changed lines were hand-edited
 ```
 
 
- Last Updated on 15/09/2026 21:32:25 UTC
+ Last Updated on 16/09/2026 21:28:25 UTC
 <!--END_SECTION:waka-->
 
 
