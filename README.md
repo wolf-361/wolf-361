@@ -143,17 +143,17 @@ Je travaille comme développeur KMP chez <strong>Simaudio (MOON)</strong> depuis
 
 ```text
 💬 Programming Languages: 
-Kotlin                   21 hrs 14 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   68.44 % 
-Other                    5 hrs 42 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   18.41 % 
-Markdown                 3 hrs 12 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.34 % 
-JSON                     19 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.06 % 
-XCodeProjectFiles        9 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.51 % 
+Kotlin                   19 hrs 21 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀   66.66 % 
+Other                    5 hrs 36 mins       ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.28 % 
+Markdown                 3 hrs 12 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.05 % 
+JSON                     19 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.14 % 
+XCodeProjectFiles        9 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.54 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 38 mins (95.46%)
+⏱ AI Coding Time: 27 hrs 38 mins (95.15%)
 
 ✍️ 6,575 lines written by AI, 120 lines written by hand (98.21% AI-written)
 
@@ -161,20 +161,20 @@ XCodeProjectFiles        9 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 💵 $80.42 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 591 AI Prompts
+🧠 20 AI Sessions, 523 AI Prompts
 
 Sonnet                   8,018 lines         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 Claude-Code              0 lines             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 98.21% of written lines came from AI
-📄 Detailed Prompter — average 1,036 characters per prompt
-🔁 Iterative Prompter — average 28 prompts per session
+📄 Detailed Prompter — average 1,160 characters per prompt
+🔁 Iterative Prompter — average 26 prompts per session
 🚀 High AI Trust — 2.66% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/09/2026 20:57:00 UTC
+ Last Updated on 21/09/2026 22:04:15 UTC
 <!--END_SECTION:waka-->
 
 
